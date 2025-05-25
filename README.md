@@ -129,9 +129,8 @@ The service provides detailed insights into pipeline operations:
 ## Development
 
 ### Testing
-- Unit tests: `npm test`
-- Integration tests: `npm run test:integration`
-- Load tests: `npm run test:load`
+- Unit tests: `npm test:unit`
+- Integration tests: `npm test:integration`
 
 ### Environment Variables
 ```
